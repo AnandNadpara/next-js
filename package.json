@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/styletron-engine-atomic": "^1.1.1",
+    "@types/styletron-react": "^5.0.3",
+    "@types/styletron-standard": "^2.0.2",
+    "baseui": "^10.10.0",
+    "http-server": "^14.1.0",
     "next": "12.1.0",
+    "next-connect": "^0.12.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "styletron-engine-atomic": "^1.4.8",
+    "styletron-react": "^6.0.2"
   },
   "devDependencies": {
     "@types/node": "17.0.21",
